@@ -1,0 +1,4 @@
+"Indicator type","Indicator","Description"
+"YARA","60eab9a1dd9bfb7c2b9fecd62bd36aa6071cbde7","Detects JSP webshells"
+"YARA","c3a80ee960fe7e9bd0a0a311e6cc33d7d4b522a7","Detects indicators found after SpringCore exploitation attempts and in the POC script"
+"YARA","d80294e2cbc21aa71e252a7d949866d8d59fc3f5","Detects webshell found after SpringCore exploitation attempts POC script"
